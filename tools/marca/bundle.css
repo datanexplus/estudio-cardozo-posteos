@@ -1,0 +1,51 @@
+/* Estudio Cardozo — piezas para redes. Los lienzos se dibujan a tamaño real
+   (1080 px de ancho) y la vista previa los reduce con .ec-frame. */
+
+.ec-frame { overflow: hidden; }
+.ec-frame.post { width: 432px; height: 540px; }   /* 1080 × 1350 al 40 % */
+.ec-frame.story { width: 324px; height: 576px; }  /* 1080 × 1920 al 30 % */
+.ec-frame.post > .ec-canvas { transform: scale(.4); }
+.ec-frame.story > .ec-canvas { transform: scale(.3); }
+
+.ec-canvas {
+  position: relative;
+  box-sizing: border-box;
+  width: 1080px;
+  transform-origin: 0 0;
+  padding: var(--space-6);
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.ec-canvas.post { height: 1350px; }
+.ec-canvas.story { height: 1920px; padding: 250px var(--space-6); }
+.ec-canvas * { margin: 0; }
+
+/* sobretítulo con el rombo del isotipo */
+.ec-kicker { display: flex; align-items: center; gap: var(--space-3); color: var(--oro-texto); text-transform: uppercase; }
+.ec-rombo { flex: none; width: 18px; height: 18px; background: var(--oro); transform: rotate(45deg); }
+
+.ec-title { margin-top: var(--space-4); color: var(--ink); font-family: var(--font-serif); max-width: 900px; }
+.ec-muted { color: var(--ink-muted); }
+
+/* dato destacado */
+.ec-dato { display: flex; align-items: flex-end; gap: var(--space-4); padding: var(--space-5); border-radius: var(--radius-sm); background: var(--oro-claro); color: var(--on-oro); }
+.ec-dato .cifra { font-variant-numeric: tabular-nums; }
+
+/* lista con rombos */
+.ec-lista { list-style: none; padding: 0; display: flex; flex-direction: column; gap: var(--space-4); }
+.ec-lista li { display: flex; gap: var(--space-4); align-items: baseline; }
+.ec-lista li::before { content: ""; flex: none; width: 14px; height: 14px; background: var(--oro); transform: translateY(-4px) rotate(45deg); }
+
+/* pie: filete, contacto e isotipo */
+.ec-pie { margin-top: auto; padding-top: var(--space-4); border-top: 2px solid var(--linea); display: flex; align-items: center; justify-content: space-between; gap: var(--space-4); }
+.ec-pie img { height: 96px; width: auto; display: block; }
+
+/* bloque noche dentro de una pieza crema */
+.ec-bloque-noche { margin: calc(-1 * var(--space-6)) calc(-1 * var(--space-6)) 0; padding: var(--space-6); background: var(--noche); }
+
+/* botón de WhatsApp: único uso de radius-full */
+.ec-wa { display: inline-flex; align-items: center; gap: var(--space-3); padding: var(--space-4) var(--space-5); border-radius: var(--radius-full); background: var(--oro); color: var(--on-oro); }
