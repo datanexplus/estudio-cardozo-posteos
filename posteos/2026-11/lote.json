@@ -1,0 +1,189 @@
+{
+  "mes": "2026-11",
+  "posteos": [
+    {
+      "id": "01-calendario-noviembre",
+      "fecha": "2026-11-02T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "calendario",
+      "kicker": "Vencimientos · Noviembre",
+      "title": "Lo que vence en noviembre",
+      "rows": [
+        {
+          "fecha": "9",
+          "que": "Feriado nacional",
+          "detalle": "Lo que vence ese día pasa al día hábil siguiente"
+        },
+        {
+          "fecha": "17 al 20",
+          "que": "Convenio Multilateral",
+          "detalle": "Anticipo de octubre, según CUIT (fechas nuevas)"
+        },
+        {
+          "fecha": "20",
+          "que": "Monotributo",
+          "detalle": "Cuota mensual, todas las terminaciones"
+        },
+        {
+          "fecha": "23",
+          "que": "Feriado nacional",
+          "detalle": "Día de la Soberanía (trasladado del 20)"
+        }
+      ],
+      "nota": "Fuente: ARCA y Comisión Arbitral (Disp. 11/2026). IVA, Ingresos Brutos y cargas sociales: consultanos la fecha de tu CUIT.",
+      "cta": "Escribinos por WhatsApp",
+      "texto": "📅 Noviembre llega con dos feriados nacionales y algunos cambios de fecha.\n\n• Lunes 9: feriado nacional por la visita del papa. Lo que venza ese día pasa al día hábil siguiente.\n• Del 17 al 20: Convenio Multilateral, anticipo de octubre. La Comisión Arbitral corrió las fechas, así que revisá la que te toca según tu CUIT.\n• Viernes 20: cuota del monotributo, para todas las terminaciones.\n• Lunes 23: feriado por el Día de la Soberanía Nacional, que se traslada del viernes 20.\n\nIVA, Ingresos Brutos y cargas sociales vencen según la terminación de tu CUIT: si querés, te pasamos tu fecha exacta.\n\nFuente: calendario de vencimientos de ARCA y Disposición 11/2026 de la Comisión Arbitral.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Vencimientos #Monotributo #IngresosBrutos #Cipolletti #AltoValle",
+      "alt": "Calendario de vencimientos de noviembre: feriado el 9, Convenio Multilateral del 17 al 20, monotributo el 20 y feriado el 23."
+    },
+    {
+      "id": "02-factura-a-b-c",
+      "fecha": "2026-11-05T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "light",
+      "kicker": "Explicado simple",
+      "title": "Factura A, B o C: ¿cuál te toca?",
+      "intro": "La letra depende de quién factura y a quién le factura.",
+      "items": [
+        "<b>Monotributista:</b> siempre emite factura C, sea quien sea el cliente.",
+        "<b>Responsable inscripto a otro inscripto o a un monotributista:</b> factura A.",
+        "<b>Responsable inscripto a un consumidor final:</b> factura B."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "Una de las preguntas que más nos hacen: ¿qué letra de factura tengo que hacer?\n\nDepende de dos cosas: cómo estás inscripto vos y cómo está inscripto tu cliente.\n\n• Si sos monotributista, emitís siempre factura C.\n• Si sos responsable inscripto (pagás IVA) y le vendés a otro inscripto o a un monotributista, va factura A.\n• Si sos responsable inscripto y le vendés a un consumidor final, va factura B.\n\nSi tenés dudas sobre la condición de un cliente, la podés consultar con su CUIT en la constancia de inscripción de ARCA.\n\nFuente: RG 1415 y RG 5003/2021 de ARCA.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Facturacion #Monotributo #IVA #Cipolletti #AltoValle",
+      "alt": "Explicado simple: qué factura emitir. Monotributista: C. Inscripto a inscripto o monotributista: A. Inscripto a consumidor final: B."
+    },
+    {
+      "id": "03-domicilio-fiscal-electronico",
+      "fecha": "2026-11-10T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "dark",
+      "kicker": "Explicado simple",
+      "title": "Tu buzón de ARCA también cuenta",
+      "intro": "El <b>domicilio fiscal electrónico</b> es el buzón donde ARCA te manda avisos e intimaciones.",
+      "items": [
+        "Es obligatorio y lo tenés dentro de tu clave fiscal.",
+        "Una notificación cuenta como recibida aunque no la abras.",
+        "Revisalo seguido y cargá un mail y un celular para recibir alertas."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "¿Sabías que ARCA tiene un buzón a tu nombre?\n\nSe llama domicilio fiscal electrónico: es como tu dirección postal, pero adentro de la clave fiscal. Ahí llegan avisos, pedidos de información e intimaciones.\n\nTres cosas para tener en cuenta:\n• Es obligatorio para todos los contribuyentes.\n• Una notificación se considera recibida aunque no la abras, y desde ahí corren los plazos para responder.\n• Conviene entrar seguido y tener cargados un mail y un celular, así te llega el aviso cuando hay algo nuevo.\n\nSi sos cliente del estudio, nosotros también lo revisamos por vos.\n\nFuente: RG 4280 de ARCA y art. 100 de la Ley 11.683.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#ARCA #Monotributo #Cipolletti #AltoValle",
+      "alt": "Explicado simple: el domicilio fiscal electrónico es el buzón de ARCA. Es obligatorio, las notificaciones cuentan aunque no las abras y conviene revisarlo seguido."
+    },
+    {
+      "id": "04-convenio-multilateral",
+      "fecha": "2026-11-12T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "dato",
+      "kicker": "Recordatorio · Convenio Multilateral",
+      "title": "Ingresos Brutos con fechas nuevas",
+      "cifra": "17",
+      "unidad": "al 20 de noviembre",
+      "body": "Si vendés en más de una provincia, el anticipo de octubre del <b>Convenio Multilateral</b> vence entre el martes 17 y el viernes 20, según tu CUIT.",
+      "fuente": "Fuente: Comisión Arbitral, Disposición 11/2026.",
+      "cta": "Escribinos por WhatsApp",
+      "texto": "Si trabajás en Río Negro y Neuquén (o en más provincias), pagás Ingresos Brutos por Convenio Multilateral.\n\nPor los feriados de noviembre, la Comisión Arbitral corrió los vencimientos del anticipo de octubre. Quedaron así, según el último número de tu CUIT:\n\n• 0, 1 y 2: martes 17\n• 3, 4 y 5: miércoles 18\n• 6 y 7: jueves 19\n• 8 y 9: viernes 20\n\nFuente: Comisión Arbitral del Convenio Multilateral, Disposición 11/2026.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#IngresosBrutos #Neuquen #Cipolletti #AltoValle",
+      "alt": "Recordatorio: el anticipo de octubre del Convenio Multilateral vence del 17 al 20 de noviembre, según el CUIT."
+    },
+    {
+      "id": "05-tope-monotributo",
+      "fecha": "2026-11-17T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "light",
+      "kicker": "Explicado simple",
+      "title": "¿Qué pasa si superás el tope?",
+      "intro": "El monotributo mira lo que <b>facturaste en los últimos 12 meses</b>.",
+      "items": [
+        "Si superás el tope de tu categoría, te recategorizás en enero o julio.",
+        "Si superás el tope de la categoría más alta, quedás afuera del monotributo.",
+        "En ese caso pasás a responsable inscripto: IVA y Ganancias."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "Si sos monotributista, lo que define tu categoría es lo que facturaste en los últimos 12 meses.\n\n• Si superás el tope de tu categoría, no pasa nada grave: en la próxima recategorización (enero o julio) subís a la que corresponde.\n• Si superás el tope de la categoría más alta, quedás excluido del monotributo desde ese momento.\n• Al quedar excluido, pasás a ser responsable inscripto: empezás a facturar con IVA y a pagar Ganancias.\n\nPor eso conviene mirar tu facturación acumulada todos los meses, y no solo cuando llega la recategorización. Si te estás acercando al límite, lo charlamos antes y planificamos el cambio.\n\nFuente: Ley 24.977 (régimen simplificado), arts. 9, 20 y 21.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Monotributo #Emprendedores #Cipolletti #AltoValle",
+      "alt": "Explicado simple: si superás el tope de tu categoría te recategorizás; si superás la categoría más alta, quedás afuera del monotributo y pasás a responsable inscripto."
+    },
+    {
+      "id": "06-historia-monotributo",
+      "fecha": "2026-11-19T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook"
+      ],
+      "template": "historia",
+      "frase": "Mañana viernes 20 vence la cuota del monotributo.",
+      "texto": "",
+      "hashtags": "",
+      "alt": "Historia: mañana viernes 20 de noviembre vence la cuota del monotributo."
+    },
+    {
+      "id": "07-aguinaldo-calculo",
+      "fecha": "2026-11-24T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "dark",
+      "kicker": "Explicado simple",
+      "title": "Aguinaldo: cómo se calcula",
+      "intro": "Se viene la segunda cuota del aguinaldo (SAC). La cuenta es simple:",
+      "items": [
+        "Tomás el <b>mejor sueldo mensual</b> de julio a diciembre.",
+        "Lo dividís por dos: ese es el aguinaldo del semestre.",
+        "Si la persona no trabajó todo el semestre, se paga proporcional."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "Si tenés empleados, en diciembre toca pagar la segunda cuota del aguinaldo (sueldo anual complementario, o SAC).\n\nCómo se calcula:\n• Se toma la mejor remuneración mensual del semestre, de julio a diciembre.\n• Se divide por dos.\n• Si el empleado entró o se fue durante el semestre, se paga en proporción a los días trabajados.\n\nEjemplo: si el mejor sueldo del semestre fue de $1.000.000, el aguinaldo es de $500.000.\n\nSi querés, te armamos el cálculo de cada empleado para que llegues con la plata prevista.\n\nFuente: Ley de Contrato de Trabajo, arts. 121 y 122, y Ley 23.041.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Aguinaldo #Sueldos #Empleadores #Cipolletti #AltoValle",
+      "alt": "Explicado simple: el aguinaldo es la mitad del mejor sueldo mensual de julio a diciembre, y se paga proporcional si no se trabajó todo el semestre."
+    },
+    {
+      "id": "08-aguinaldo-fecha",
+      "fecha": "2026-11-26T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "dato",
+      "kicker": "Para empleadores · Aguinaldo",
+      "title": "La segunda cuota se paga hasta el",
+      "cifra": "18",
+      "unidad": "de diciembre",
+      "body": "El viernes 18 de diciembre es el plazo para pagar la <b>segunda cuota del aguinaldo</b>. Diciembre viene cargado de gastos: conviene separar la plata desde ahora.",
+      "fuente": "Fuente: Ley de Contrato de Trabajo, art. 122.",
+      "cta": "Escribinos por WhatsApp",
+      "texto": "📅 Para los empleadores: la segunda cuota del aguinaldo se paga hasta el viernes 18 de diciembre.\n\nDiciembre suele venir cargado de gastos, así que te recomendamos separar la plata con tiempo. Si no sabés cuánto te va a tocar pagar, te armamos el cálculo por empleado.\n\nFuente: Ley de Contrato de Trabajo, art. 122.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Aguinaldo #Sueldos #Empleadores #Cipolletti #AltoValle",
+      "alt": "Dato: la segunda cuota del aguinaldo se paga hasta el 18 de diciembre."
+    }
+  ]
+}
