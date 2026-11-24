@@ -1,0 +1,181 @@
+{
+  "mes": "2026-12",
+  "posteos": [
+    {
+      "id": "01-calendario-diciembre",
+      "fecha": "2026-12-01T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "calendario",
+      "kicker": "Vencimientos · Diciembre",
+      "title": "Lo que vence en diciembre",
+      "rows": [
+        {
+          "fecha": "7 y 8",
+          "que": "No laborable y feriado",
+          "detalle": "También feriado el viernes 25, Navidad"
+        },
+        {
+          "fecha": "15 al 18",
+          "que": "Convenio Multilateral",
+          "detalle": "Anticipo de noviembre, según CUIT"
+        },
+        {
+          "fecha": "18",
+          "que": "Aguinaldo",
+          "detalle": "Último día para pagar la segunda cuota"
+        },
+        {
+          "fecha": "18 al 24",
+          "que": "Ingresos Brutos Neuquén",
+          "detalle": "Contribuyentes directos, según CUIT"
+        },
+        {
+          "fecha": "21",
+          "que": "Monotributo",
+          "detalle": "Cuota de diciembre (el 20 cae domingo)"
+        }
+      ],
+      "nota": "Fuente: ARCA, Rentas Neuquén y Ley 27.399. IVA, IIBB Río Negro y cargas sociales: consultanos tu fecha.",
+      "cta": "Escribinos por WhatsApp",
+      "texto": "📅 Diciembre viene corto: feriados, fiestas y aguinaldo. Estas son las fechas para tener a mano.\n\n• Lunes 7: día no laborable con fines turísticos. Martes 8: feriado nacional por la Inmaculada Concepción.\n• Del 15 al 18: Convenio Multilateral, anticipo de noviembre, según la terminación de tu CUIT.\n• Viernes 18: último día para pagar la segunda cuota del aguinaldo.\n• Del 18 al 24: Ingresos Brutos Neuquén para contribuyentes directos, según tu CUIT.\n• Lunes 21: cuota del monotributo. El 20 cae domingo, así que pasa al primer día hábil.\n• Viernes 25: Navidad, feriado nacional.\n\nIVA, Ingresos Brutos Río Negro y cargas sociales vencen según la terminación de tu CUIT: si querés, te pasamos tu fecha exacta.\n\nFuente: ARCA, Dirección Provincial de Rentas de Neuquén, Ley 27.399 y Resolución 164/2025 de Jefatura de Gabinete.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Vencimientos #Monotributo #IngresosBrutos #Cipolletti #AltoValle",
+      "alt": "Calendario de vencimientos de diciembre: no laborable el 7 y feriado el 8, Convenio Multilateral del 15 al 18, aguinaldo el 18, Ingresos Brutos Neuquén del 18 al 24, monotributo el 21 y Navidad el 25."
+    },
+    {
+      "id": "02-feriado-trabajado",
+      "fecha": "2026-12-03T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "light",
+      "kicker": "Explicado simple",
+      "title": "Si tu empleado trabaja el feriado",
+      "intro": "Feriado y día no laborable <b>no son lo mismo</b> a la hora de pagar.",
+      "items": [
+        "<b>Feriado (8 y 25):</b> si no trabaja, lo cobra igual.",
+        "<b>Si trabaja el feriado:</b> cobra el día normal más otro igual, o sea doble.",
+        "<b>No laborable (7):</b> el empleador decide si se trabaja; si se trabaja, se paga simple."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "En diciembre hay un día no laborable (lunes 7) y dos feriados nacionales (martes 8 y viernes 25). Si tenés empleados, conviene saber cómo se paga cada uno.\n\n• Feriado nacional: el empleado que no trabaja lo cobra igual, como si fuera un día trabajado.\n• Si trabaja el feriado: cobra la remuneración normal del día más una cantidad igual. Es decir, ese día se paga doble.\n• Día no laborable: el empleador decide si se trabaja o no. Si se trabaja, se paga el sueldo normal, sin recargo.\n\nSi querés, te ayudamos a liquidar diciembre con todos estos días bien cargados.\n\nFuente: Ley de Contrato de Trabajo, arts. 166 y 167; Ley 27.399 y Resolución 164/2025 de Jefatura de Gabinete.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Feriados #Sueldos #Empleadores #Cipolletti #AltoValle",
+      "alt": "Explicado simple: el feriado se cobra aunque no se trabaje; si se trabaja, se paga doble. En el día no laborable decide el empleador y, si se trabaja, se paga simple."
+    },
+    {
+      "id": "03-vacaciones-dias",
+      "fecha": "2026-12-10T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "dark",
+      "kicker": "Explicado simple",
+      "title": "¿Cuántos días de vacaciones corresponden?",
+      "intro": "Depende de la <b>antigüedad</b> que tenga el empleado al 31 de diciembre.",
+      "items": [
+        "<b>Hasta 5 años:</b> 14 días corridos. <b>De 5 a 10:</b> 21 días.",
+        "<b>De 10 a 20 años:</b> 28 días. <b>Más de 20:</b> 35 días.",
+        "Se toman entre octubre y abril, avisando con <b>45 días</b> de anticipación."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "Llega el verano y con él la pregunta de siempre: ¿cuántos días de vacaciones le tocan a mi empleado?\n\nLa ley los fija según la antigüedad que tenga al 31 de diciembre:\n• Hasta 5 años: 14 días corridos.\n• Más de 5 y hasta 10 años: 21 días corridos.\n• Más de 10 y hasta 20 años: 28 días corridos.\n• Más de 20 años: 35 días corridos.\n\nLas vacaciones se otorgan entre el 1 de octubre y el 30 de abril, y la fecha se tiene que avisar por escrito con 45 días de anticipación. Algunos convenios mejoran estos mínimos, así que vale la pena revisar el tuyo.\n\nFuente: Ley de Contrato de Trabajo, arts. 150 y 154.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Vacaciones #Sueldos #Empleadores #Cipolletti #AltoValle",
+      "alt": "Explicado simple: días de vacaciones según antigüedad. Hasta 5 años, 14 días; de 5 a 10, 21; de 10 a 20, 28; más de 20, 35. Se toman entre octubre y abril con 45 días de aviso."
+    },
+    {
+      "id": "04-convenio-multilateral",
+      "fecha": "2026-12-11T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "dato",
+      "kicker": "Recordatorio · Convenio Multilateral",
+      "title": "Ingresos Brutos de noviembre",
+      "cifra": "15",
+      "unidad": "al 18 de diciembre",
+      "body": "Si vendés en más de una provincia, el anticipo de noviembre del <b>Convenio Multilateral</b> vence entre el martes 15 y el viernes 18, según tu CUIT.",
+      "fuente": "Fuente: Dirección Provincial de Rentas de Neuquén.",
+      "cta": "Escribinos por WhatsApp",
+      "texto": "Si trabajás en Río Negro y Neuquén (o en más provincias), pagás Ingresos Brutos por Convenio Multilateral.\n\nEl anticipo de noviembre vence la semana que viene, según el último número de tu CUIT:\n\n• 0, 1 y 2: martes 15\n• 3, 4 y 5: miércoles 16\n• 6 y 7: jueves 17\n• 8 y 9: viernes 18\n\nFuente: calendario de Convenio Multilateral de la Dirección Provincial de Rentas de Neuquén.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#IngresosBrutos #Neuquen #Cipolletti #AltoValle",
+      "alt": "Recordatorio: el anticipo de noviembre del Convenio Multilateral vence del 15 al 18 de diciembre, según el CUIT."
+    },
+    {
+      "id": "05-monotributo-debito",
+      "fecha": "2026-12-15T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "light",
+      "kicker": "Explicado simple",
+      "title": "El monotributo se paga solo online",
+      "intro": "La cuota mensual se paga <b>únicamente por medios electrónicos</b>.",
+      "items": [
+        "La cuota incluye el impuesto, la obra social y la jubilación.",
+        "Vence el día 20; si cae feriado o fin de semana, pasa al hábil siguiente.",
+        "Con <b>débito automático</b> desde la app ARCA Móvil, te olvidás de la fecha."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "¿Todavía pagás el monotributo a último momento? Hay una forma más tranquila.\n\n• La cuota mensual incluye tres cosas: el componente impositivo, el aporte a la obra social y el aporte jubilatorio.\n• Se paga hasta el día 20 de cada mes. Si ese día cae feriado o fin de semana, pasa al primer día hábil siguiente.\n• Se paga solo por medios electrónicos. La opción más cómoda es adherirte al débito automático desde la app ARCA Móvil: se debita sola y no dependés de acordarte.\n\nSi querés, te ayudamos a dejarlo configurado.\n\nFuente: ARCA, sección Monotributo, ayuda sobre pagos.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Monotributo #ARCA #Cipolletti #AltoValle",
+      "alt": "Explicado simple: el monotributo se paga solo por medios electrónicos, incluye impuesto, obra social y jubilación, vence el 20 y se puede adherir al débito automático desde ARCA Móvil."
+    },
+    {
+      "id": "06-monotributo-vence",
+      "fecha": "2026-12-17T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "dato",
+      "kicker": "Recordatorio · Monotributo",
+      "title": "Vence la cuota del monotributo",
+      "cifra": "21",
+      "unidad": "de diciembre",
+      "body": "Como el 20 cae domingo, la cuota del <b>monotributo</b> vence el lunes 21, para todas las terminaciones de CUIT.",
+      "fuente": "Fuente: ARCA.",
+      "cta": "Escribinos por WhatsApp",
+      "texto": "📅 Recordatorio para monotributistas: la cuota de diciembre vence el lunes 21.\n\nEl monotributo se paga hasta el día 20 de cada mes, pero este mes el 20 cae domingo, así que el vencimiento pasa al primer día hábil siguiente. Es igual para todas las terminaciones de CUIT.\n\nSi tenés débito automático, revisá que haya saldo en la cuenta.\n\nFuente: ARCA, sección Monotributo.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Monotributo #Vencimientos #Cipolletti #AltoValle",
+      "alt": "Recordatorio: la cuota del monotributo de diciembre vence el lunes 21, porque el 20 cae domingo."
+    },
+    {
+      "id": "07-recategorizacion-febrero",
+      "fecha": "2026-12-22T10:15:00",
+      "redes": [
+        "instagram",
+        "facebook",
+        "gmb"
+      ],
+      "template": "explicado",
+      "theme": "dark",
+      "kicker": "Explicado simple",
+      "title": "En febrero toca recategorizar",
+      "intro": "Dos veces por año, en <b>febrero y agosto</b>, revisás tu categoría.",
+      "items": [
+        "Se mira lo que facturaste en los <b>últimos 12 meses</b>.",
+        "El plazo es <b>hasta el 5 de febrero</b>.",
+        "Si no hacés nada, seguís en la misma categoría."
+      ],
+      "cta": "Escribinos por WhatsApp",
+      "texto": "Cerrar el año también sirve para ir mirando la recategorización del monotributo.\n\n• Se hace dos veces por año, en febrero y en agosto.\n• Se mira lo que facturaste en los últimos 12 meses de actividad. Si los valores superan los de tu categoría (o quedan por debajo), corresponde cambiarla.\n• La próxima se puede hacer hasta el 5 de febrero.\n• Si no hacés el trámite, ARCA entiende que no hubo cambios y seguís en la misma categoría.\n\nSi tenés menos de 6 meses de actividad, todavía no te toca.\n\nAprovechá diciembre para juntar tus facturas del año: en enero lo revisamos juntos.\n\nFuente: ARCA, sección Monotributo, recategorización.\n\n¿Dudas con tu caso? Escribinos por WhatsApp.\n📍 Fray Santa María de Oro 985, Cipolletti",
+      "hashtags": "#Monotributo #Recategorizacion #Cipolletti #AltoValle",
+      "alt": "Explicado simple: la recategorización del monotributo es en febrero y agosto, mira los últimos 12 meses, vence el 5 de febrero y si no hacés nada seguís en la misma categoría."
+    }
+  ]
+}
